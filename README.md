@@ -1,6 +1,7 @@
 - 🔭 I’m currently working on a 3D platformer shooter
 - 🌱 I’m currently learning Unity and C#
 - 📫 How to reach me: https://www.linkedin.com/in/thomas-mezzie/
+- 🎮 Play my games: https://tommezzie.itch.io/
 - 💼 Looking for game dev work
 
 <!--
