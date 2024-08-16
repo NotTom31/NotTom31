@@ -1,9 +1,8 @@
 - 🔗 My Porfolio Website https://tommezzie.com/
-- 🔭 I’m currently working on a Mech Fighter
-- 🌱 I’m currently learning Unreal Engine
+- 🔭 I’m currently working on [An Eternity Gone By](https://store.steampowered.com/app/2735110/An_Eternity_Gone_By/) at [Trashfire Games](https://trashfiregames.com/)
 - 📫 How to reach me: https://www.linkedin.com/in/thomas-mezzie/
 - 🎮 Play my games: https://tommezzie.itch.io/
-- 💼 Looking for game dev work
+- 💼 Open to work
 
 <!--
 - 👯 I’m looking to collaborate on ...
